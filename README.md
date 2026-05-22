@@ -8,8 +8,8 @@ Aqui você encontrará um notebook no qual realizei exercícios práticos e apri
 
 ## *Oque você verá?**
 - Gráficos analiticos com dados reais sobre imigrantes;
-- Diferentes tipos de visualizações dos gráficos
-- Linhas de código comentadas informando oque cada sintaxe faz
+- Diferentes tipos de visualizações dos gráficos;
+- Linhas de código comentadas informando oque cada sintaxe faz;
 
 ## 🛠️ Tecnologias Utilizadas
 
